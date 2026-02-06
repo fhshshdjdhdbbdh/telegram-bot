@@ -1,0 +1,6 @@
+python-telegram-bot==20.8
+nest_asyncio
+requests
+pillow
+qrcode[pil]
+instagrapi
