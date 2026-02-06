@@ -1,0 +1,5 @@
+instagrapi
+pyTelegramBotAPI
+qrcode[pil]
+pillow
+requests
