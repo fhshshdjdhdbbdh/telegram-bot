@@ -1,1 +1,1 @@
-worker: python HostingBot.py
+worker: python3 HostingBot.py
